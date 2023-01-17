@@ -12,3 +12,4 @@
  [Справочник по Markdown от Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 )
  
+ ![Петропавловский собор](IMG_2888.jpg)
