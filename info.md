@@ -13,6 +13,8 @@
  - git checkout <название ветки> – *переход к другой ветке*
  - git branch -d <название ветки> – *удалить ветку*
 
+Чтобы добавить ссылку надо написать следующее:
+
  [Справочник по Markdown от Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 )
 
