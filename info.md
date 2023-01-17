@@ -17,7 +17,6 @@
 
  [Справочник по Markdown от Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 )
-test
 
 Чтобы добавить изоражение нужно написать следующее:
  
@@ -36,5 +35,5 @@ test
 * Элемент 2
 * Элемент 3
 + Элемент 4
- test
+
  
