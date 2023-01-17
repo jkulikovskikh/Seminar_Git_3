@@ -15,3 +15,5 @@
 
  [Справочник по Markdown от Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 )
+
+Чтобы добавить изоражение нужно написать следующее:
