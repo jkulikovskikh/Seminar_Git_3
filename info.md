@@ -8,7 +8,10 @@
  - git checkout - *переход от одного коммита к другому*
  - git checkout master - *вернуться к актуальному состоянию и продолжить работу*
  - git diff - *увидеть разницу между текущем файлом и закоммиченным файлом*
+ - git branch – *посмотреть список веток в репозитории*
+ - git branch <название ветки> – *создать новую ветку*
+ - git checkout <название ветки> – *переход к другой ветке*
+ - git branch -d <название ветки> – *удалить ветку*
 
  [Справочник по Markdown от Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 )
- 
